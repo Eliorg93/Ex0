@@ -1,5 +1,5 @@
 # Ex0
-OOP/Ex0
+OOP/ex0
 **author:Elior gueta**
 
 this project is created to make an implementation of an undirected unweighted graph in java.
